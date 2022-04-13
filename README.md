@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/3column-preview-card-component-S1kbvK445)
 - Live Site URL: [github](https://andypuddle.github.io/3-column-preview-card-component/)
 
 ### Built with
