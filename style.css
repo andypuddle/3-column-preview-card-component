@@ -78,16 +78,38 @@ button{
   letter-spacing: 1px;
 }
 
+button:hover {
+  cursor: pointer;
+  padding: 13px 28px;
+}
+
 .sedan>button{
   color: var(--Bright-orange);
+}
+.sedan>button:hover{
+  background-color: var(--Bright-orange);
+  border: 2px solid var(--background-headings-buttons);
+  color: var(--background-headings-buttons);
 }
 
 .suv>button{
 color: var(--Dark-cyan);
 }
 
+.suv>button:hover{
+  background-color: var(--Dark-cyan);
+  border: 2px solid var(--background-headings-buttons);
+  color: var(--background-headings-buttons);
+}
+
 .luxury>button{
 color: var(--Very-dark-cyan);
+}
+
+.luxury>button:hover{
+  background-color: var(--Very-dark-cyan);
+  border: 2px solid var(--background-headings-buttons);
+  color: var(--background-headings-buttons);
 }
 
 .attribution {
