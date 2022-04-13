@@ -22,9 +22,9 @@ Users should be able to:
 
 ### Screenshot
 ### Desktop
-![desktop](./desktop/desktop-screenshot.png)
+![desktop](https://github.com/andypuddle/3-column-preview-card-component/blob/main/design/desktop-screenshot.png)
 ### Mobile
-![mobile](./desktop/mobile-screenshot.png)
+![mobile](https://github.com/andypuddle/3-column-preview-card-component/blob/main/design/mobile-screenshot.png)
 
 ### Links
 
