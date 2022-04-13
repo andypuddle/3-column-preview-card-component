@@ -36,7 +36,7 @@ main{
 }
 
 .card{
-  padding: 45px;
+  padding:50px;
 }
 
 .sedan{
@@ -111,5 +111,9 @@ body{
   main {
     width: 900px;
     display: flex;
+  }
+
+  .card {
+    padding: 45px;
   }
 }
