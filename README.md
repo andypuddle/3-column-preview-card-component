@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://your-solution-url.com)
+- Live Site URL: [github](https://andypuddle.github.io/3-column-preview-card-component/)
 
 ### Built with
 
@@ -40,5 +40,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Add your name here](https://www.frontendmentor.io/solutions/3column-preview-card-component-S1kbvK445)
 - Frontend Mentor - [@andypuddle](https://www.frontendmentor.io/profile/andypuddle)
