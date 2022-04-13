@@ -21,8 +21,10 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshot
-
-![](./images/screenshot.jpg)
+### Desktop
+![screenshots](./images/desktop-screenshot.png)
+### Mobile
+![screenshots](./images/mobile-screenshot.png)
 
 ### Links
 
